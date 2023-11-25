@@ -3,5 +3,12 @@
 
 
 
+- I am a game developer (Unreal Engine)
+- I am a web developer (Html, CSS, Javascript, PHP, SQL)
+- I am an app developer (Java, Swift)
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Languages:</h3>
+
+
+
