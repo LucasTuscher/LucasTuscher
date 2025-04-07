@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">
-  I'm a passionate full-stack developer with 3 years of experience in building websites using JavaScript and PHP.
+  I'm a passionate full-stack developer with 5 years of experience in building websites using JavaScript and PHP.
   I also develop games using Unreal Engine with C++ and Blueprints.
 </h3>
 
