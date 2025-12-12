@@ -1,24 +1,26 @@
-<h1 align="center">Lucas – Full-Stack & Game Developer</h1>
+<h1 align="center">Lucas – Full-Stack & Game Development Student</h1>
 
 <h3 align="center">
-  I build scalable web applications and gameplay-focused systems<br/>
-  using modern technologies and clean, maintainable code.
+  I am a motivated developer and student, building practical experience<br/>
+  in web development and game programming while continuously learning.
 </h3>
 
 ---
 
 ### About Me
-- Game developer with a strong focus on **Unreal Engine (C++ & Blueprints)** and gameplay systems  
-- Full-stack web developer working with **JavaScript, Node.js, PHP and SQL**  
-- App developer for **Android (Java)** and **iOS (Swift)**  
-- Continuously improving my **C++ skills** and currently learning **Rust**
+- Computer science / software development student with a strong interest in **game development** and **backend systems**
+- Developing games with **Unreal Engine (C++ & Blueprints)**, focusing on gameplay logic and clean code
+- Building web applications using **JavaScript, Node.js, PHP and SQL**
+- Developing native mobile applications with **Java (Android)** and **Swift (iOS)**
+- Actively improving my **C++ skills** and currently learning **Rust**
+- Always open to learning new technologies and improving my understanding of software engineering principles
 
 ---
 
-### Experience Level
-- **Advanced**: C++, JavaScript, PHP, Unreal Engine  
-- **Intermediate**: Node.js, SQL, Java, Swift  
-- **Learning**: Rust, Python  
+### Current Skill Level
+- **Confident**: C++, JavaScript, PHP, Unreal Engine fundamentals  
+- **Practical Experience**: Node.js, SQL, Java, Swift  
+- **Learning / Exploring**: Rust, Python, advanced software architecture  
 
 ---
 
@@ -85,4 +87,4 @@
 
 ---
 
-Focused on writing clean code, building reliable systems and continuously improving as a developer.
+I value continuous learning, hands-on experience and honest self-improvement over claiming expertise.
