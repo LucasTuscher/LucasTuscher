@@ -1,35 +1,35 @@
-<h1 align="center">Lucas – Software Development Student</h1>
+<h1 align="center">Lucas – Softwareentwicklungsstudent</h1>
 
 <h3 align="center">
-  I am a motivated software development student with practical experience<br/>
-  in web development and game programming, continuously learning and improving.
+  Ich bin ein motivierter Softwareentwicklungsstudent mit praktischer Erfahrung<br/>
+  in Webentwicklung und Spieleprogrammierung und arbeite kontinuierlich daran, meine Fähigkeiten zu verbessern.
 </h3>
 
 ---
 
-### About Me
-I am a software development student with a strong interest in building real-world applications and systems.
-My focus lies on game development with Unreal Engine and backend- and desktop-oriented web technologies.
+### Über mich
+Ich bin ein Softwareentwicklungsstudent mit starkem Interesse daran, reale Anwendungen und Systeme zu entwickeln.  
+Mein Fokus liegt auf Spieleentwicklung mit Unreal Engine sowie auf Backend- und Desktop-orientierten Webtechnologien.
 
-I enjoy learning new technologies, improving my fundamentals and gaining hands-on experience through personal projects.
+Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle praktische Erfahrung durch eigene Projekte.
 
-- Game development with **Unreal Engine (C++ & Blueprints)**, focusing on gameplay systems and structure  
-- Web development using **JavaScript, Node.js, PHP and SQL**  
-- Desktop application development with **Electron and Node.js**  
-- Native mobile development with **Java (Android)** and **Swift (iOS)**  
-- Actively improving my **C++ skills**  
-- Currently learning **Rust** to expand my understanding of low-level and system programming  
-
----
-
-### Current Skill Level
-- **Confident**: C++, JavaScript, PHP, Unreal Engine fundamentals  
-- **Good Practical Experience**: Node.js, Electron, SQL, Java, Swift  
-- **Learning / Improving**: Rust, Python, software architecture and best practices  
+- Spieleentwicklung mit **Unreal Engine (C++ & Blueprints)**, mit Fokus auf Gameplay-Systeme und Struktur  
+- Webentwicklung mit **JavaScript, Node.js, PHP und SQL**  
+- Desktop-Anwendungsentwicklung mit **Electron und Node.js**  
+- Native Mobile-Entwicklung mit **Java (Android)** und **Swift (iOS)**  
+- Aktives Verbessern meiner **C++-Kenntnisse**  
+- Aktuell lerne ich **Rust**, um mein Verständnis für Low-Level- und Systemprogrammierung zu erweitern  
 
 ---
 
-<h3 align="left">Languages</h3>
+### Aktuelles Kenntnisniveau
+- **Sicher im Umgang mit**: C++, JavaScript, PHP, Unreal Engine Grundlagen  
+- **Gute praktische Erfahrung mit**: Node.js, Electron, SQL, Java, Swift  
+- **Lerne / verbessere aktuell**: Rust, Python, Softwarearchitektur und Best Practices  
+
+---
+
+<h3 align="left">Programmiersprachen</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -42,7 +42,7 @@ I enjoy learning new technologies, improving my fundamentals and gaining hands-o
 
 ---
 
-<h3 align="left">Tools & Technologies</h3>
+<h3 align="left">Tools & Technologien</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
@@ -58,4 +58,4 @@ I enjoy learning new technologies, improving my fundamentals and gaining hands-o
 
 ---
 
-I value continuous learning, hands-on experience and honest self-improvement over claiming expertise.
+Ich lege großen Wert auf kontinuierliches Lernen, praktische Erfahrung und ehrliche Selbstverbesserung, statt mich als Experte darzustellen.
