@@ -1,4 +1,4 @@
-<h1 align="center">Lucas – Softwareentwicklungsstudent</h1>
+<h1 align="center">Lucas – Informatikstudent</h1>
 
 <h3 align="center">
   Ich bin ein motivierter Softwareentwicklungsstudent mit praktischer Erfahrung<br/>
