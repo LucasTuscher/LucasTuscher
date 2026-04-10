@@ -1,7 +1,7 @@
 <h1 align="center">Lucas – Informatikstudent</h1>
 
 <h3 align="center">
-  Ich bin ein motivierter Softwareentwicklungsstudent mit praktischer Erfahrung<br/>
+  Ich bin ein motivierter Informatikstudent mit praktischer Erfahrung<br/>
   in Webentwicklung und Spieleprogrammierung und arbeite kontinuierlich daran, meine Fähigkeiten zu verbessern.
 </h3>
 
