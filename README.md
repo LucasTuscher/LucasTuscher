@@ -8,7 +8,7 @@
 ---
 
 ### Über mich
-Ich bin ein Softwareentwicklungsstudent mit starkem Interesse daran, reale Anwendungen und Systeme zu entwickeln.  
+Ich bin ein Informatikstudent mit starkem Interesse daran, reale Anwendungen und Systeme zu entwickeln.  
 Mein Fokus liegt auf Spieleentwicklung mit Unreal Engine sowie auf Backend- und Desktop-orientierten Webtechnologien.
 
 Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle praktische Erfahrung durch eigene Projekte.
