@@ -18,7 +18,6 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 - Desktop-Anwendungsentwicklung mit **Electron und Node.js**  
 - Native Mobile-Entwicklung mit **Java (Android)** und **Swift (iOS)**  
 - Aktives Verbessern meiner **C++-Kenntnisse**  
-- Aktuell lerne ich **Rust**, um mein Verständnis für Low-Level- und Systemprogrammierung zu erweitern  
 
 ---
 
