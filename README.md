@@ -23,6 +23,7 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 - **AZTest Cpp Framework**: ein eigenes Test Framework (ähnlich wie Google Test)
 - **Podast-Webapp**: Uni Projekt
 - **Android Curling Game**: Uni Projekt
+- **C++ Raytracer**: Uni Projekt im Modul (Computergrafik und Animationen)
 
 
 <h3 align="left">Programmiersprachen</h3>
