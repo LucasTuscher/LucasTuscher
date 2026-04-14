@@ -24,7 +24,12 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 ### Aktuelles Kenntnisniveau
 - **Sicher im Umgang mit**: C++, JavaScript, PHP, Unreal Engine Grundlagen  
 - **Gute praktische Erfahrung mit**: Node.js, Electron, SQL, Java, Swift  
-- **Lerne / verbessere aktuell**: Rust, Python, Softwarearchitektur und Best Practices  
+
+---
+
+### Kenntnisniveau was ich derzeit verbesser
+- **Lerne / verbessere aktuell**: Rust, C++, Softwarearchitektur und Best Practices
+- 
 
 ---
 
