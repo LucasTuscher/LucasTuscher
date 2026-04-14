@@ -24,6 +24,7 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 - **Podast-Webapp**: Uni Projekt
 - **Android Curling Game**: Uni Projekt
 - **C++ Raytracer**: Uni Projekt im Modul (Computergrafik und Animationen)
+-  weitere nicht öffentliche Projekte
 
 
 <h3 align="left">Programmiersprachen</h3>
