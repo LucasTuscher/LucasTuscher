@@ -51,4 +51,4 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 
 ---
 
-Ich lege großen Wert auf kontinuierliches Lernen, praktische Erfahrung und ehrliche Selbstverbesserung.
+Ich lege großen Wert auf kontinuierliches Lernen, praktische Erfahrung.
