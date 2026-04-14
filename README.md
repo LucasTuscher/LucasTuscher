@@ -19,13 +19,9 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 - Native Mobile-Entwicklung mit **Java (Android)** und **Swift (iOS)**  
 - Aktives Verbessern meiner **C++-Kenntnisse**  
 
----
-
 ### Aktuelles Kenntnisniveau
 - **Sicher im Umgang mit**: C++, JavaScript, PHP, Unreal Engine Grundlagen  
 - **Gute praktische Erfahrung mit**: Node.js, Electron, SQL, Java, Swift  
-
----
 
 ### Kenntnisniveau was ich derzeit verbessere
 - **Lerne / verbessere aktuell**: Rust, C++, Softwarearchitektur und Best Practices
