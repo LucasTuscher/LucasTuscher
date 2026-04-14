@@ -1,5 +1,4 @@
-<h1 align="center">Lucas - motivierter Informatikstudent 
-Hochschule Anhalt
+<h1 align="center">Lucas - motivierter Informatikstudent - Hochschule Anhalt
 
 <h3 align="center">
   Ich bin ein motivierter Informatikstudent mit praktischer Erfahrung<br/>
