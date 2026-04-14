@@ -20,8 +20,8 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 - Aktives Verbessern meiner **C++-Kenntnisse**  
 
 ### Aktuelles Kenntnisniveau
-- **Sicher im Umgang mit**: C++, JavaScript, PHP, Unreal Engine Grundlagen  
-- **Gute praktische Erfahrung mit**: Node.js, Electron, C++, Java, Swift  
+- **Gute praktische Erfahrung mit**: JavaScript, PHP, Unreal Engine Grundlagen  
+- **Grundkenntnisse**: Node.js, Electron, C++, Java, Swift  
 
 
 <h3 align="left">Programmiersprachen</h3>
