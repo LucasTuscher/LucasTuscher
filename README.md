@@ -26,8 +26,6 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 ### Kenntnisniveau was ich derzeit verbessere
 - **Lerne / verbessere aktuell**: Rust, C++, Softwarearchitektur und Best Practices
 
----
-
 <h3 align="left">Programmiersprachen</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -38,8 +36,6 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 </p>
-
----
 
 <h3 align="left">Tools & Technologien</h3>
 <p align="left">
