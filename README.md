@@ -29,7 +29,6 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 
 ### Kenntnisniveau was ich derzeit verbessere
 - **Lerne / verbessere aktuell**: Rust, C++, Softwarearchitektur und Best Practices
-- 
 
 ---
 
