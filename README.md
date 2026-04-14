@@ -1,4 +1,4 @@
-<h1 align="center">Lucas
+<h1 align="center">Lucas - motivierter Informatikstudent 
 
 <h3 align="center">
   Ich bin ein motivierter Informatikstudent mit praktischer Erfahrung<br/>
