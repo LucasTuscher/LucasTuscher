@@ -19,9 +19,10 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 - Native Mobile-Entwicklung mit **Java (Android)** und **Swift (iOS)**  
 - Aktives Verbessern meiner **C++-Kenntnisse**  
 
-### Aktuelles Kenntnisniveau
-- **Gute praktische Erfahrung mit**: JavaScript, PHP, Unreal Engine Grundlagen  
-- **Grundkenntnisse**: Node.js, Electron, C++, Java, Swift  
+### Meine Projekte
+- **AZTest Cpp Framework**: ein eigenes Test Framework (ähnlich wie Google Test)
+- **Podast-Webapp**: Uni Projekt
+- **Android Curling Game**: Uni Projekt
 
 
 <h3 align="left">Programmiersprachen</h3>
