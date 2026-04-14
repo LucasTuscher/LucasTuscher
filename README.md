@@ -20,11 +20,11 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 - Aktives Verbessern meiner **C++-Kenntnisse**  
 
 ### Meine Projekte
-- **AZTest Cpp Framework**: ein eigenes Test Framework (ähnlich wie Google Test)
-- **Podast-Webapp**: Uni Projekt
-- **Android Curling Game**: Uni Projekt
-- **C++ Raytracer**: Uni Projekt im Modul (Computergrafik und Animationen)
--  weitere nicht öffentliche Projekte
+- **[AZTest Cpp Framework](https://github.com/LucasTuscher/AZTest-Cpp)**: Ein eigenes Unit-Test Framework für C++ (ähnlich wie Google Test).
+- **[Podcast-Webapp](https://github.com/LucasTuscher/Podcast-WebApp)**: Full-Stack Hochschulprojekt (Frontend, Backend & Datenbank).
+- **[Android Curling Game](https://github.com/LucasTuscher/CurlingGame-for-Android)**: Mobiles Sportspiel mit Fokus auf Physik und Touch-Steuerung.
+- **[C++ Raytracer](https://github.com/LucasTuscher/Cpp-Raytracer)**: Grafik-Projekt zur Berechnung von Licht, Schatten und Reflexionen.
+- *Weitere Projekte befinden sich in privaten Repositories.*
 
 
 <h3 align="left">Programmiersprachen</h3>
