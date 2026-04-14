@@ -38,7 +38,7 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 <h3 align="left">Tools & Technologien</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" title="Unreal Engine"/>
-
+<img src="https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" width="40" title="Unreal Engine"/>
   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/master/icons/svg/brand/unreal-engine.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
