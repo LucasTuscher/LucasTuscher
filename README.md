@@ -37,7 +37,7 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 
 <h3 align="left">Tools & Technologien</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/unrealengine.svg" width="40" style="filter: invert(100%);" title="Unreal Engine"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/unreal-engine.png" width="40" title="Unreal Engine"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/>
