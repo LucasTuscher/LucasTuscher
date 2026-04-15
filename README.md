@@ -24,7 +24,7 @@ Ich lerne gerne neue Technologien, verbessere meine Grundlagen und sammle prakti
 - **[Podcast-Webapp](https://github.com/LucasTuscher/Podcast-WebApp)**: Full-Stack Hochschulprojekt (Frontend, Backend & Datenbank).
 - **[Android Curling Game](https://github.com/LucasTuscher/CurlingGame-for-Android)**: Mobiles Sportspiel mit Fokus auf Physik und Touch-Steuerung.
 - **[C++ Raytracer](https://github.com/LucasTuscher/Cpp-Raytracer)**: Grafik-Projekt zur Berechnung von Licht, Schatten und Reflexionen.
-- *Weitere Projekte befinden sich in privaten Repositories.*
+- *Weitere Projekte befinden sich in privaten Repositories. (z.b meine eigene kleine Game Engine oder meine eigene IDE)*
 
 
 <h3 align="left">Programmiersprachen</h3>
